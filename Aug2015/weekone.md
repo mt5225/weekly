@@ -1,5 +1,5 @@
 ## 流水帐
-- **Monday**, on board, fill *lots* of forms, chat with Donny, Aohan, yangchao about dcv en version and other plans. make key days for DCV english version.
+- **Monday**, on board, fill *lots* of forms, chat with Donny, Aohan, yangchao about dcv en version and other plans. make key days for DCV english version [see details below].
 - **Tuesday**
   1. request and  granted to ITA git repository, clone to local[for for lizhong's help]
   2. upgrade corp PC to windows 10
@@ -9,3 +9,11 @@
   6. injured in field soccer.
 - **Wednesday**
   1. take sick leave
+  2. phone chat with 田野 with dcv english version strategy. [see details blow]
+ 
+
+
+## DCV English key days
+
+
+## Version Strategy
