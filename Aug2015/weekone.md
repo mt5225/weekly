@@ -11,13 +11,14 @@
   8. visit mingshen datacenter in shunyi with yangchao, aohan and kongfeng.
 - **Wednesday**
   1. take sick leave
-  2. phone chat with 田野 with dcv english version strategy. [see details beblow]
+  2. phone chat with 田野 with dcv english version strategy. [see details below]
  
-
 
 ## DCV English key dates
 discussed in conference room with Donny, Yangchao, Aohan, mark some key days as following：<br>
-- [End of August]
+- [week of Aug 03] make sure model and pool.config can work with DCV english version.
+- [Aug 14] installation guide, quickstart guide, demo script -- Jerry Demo script -- Donny
+- [End of Aug] dcb website redesign -- Donny/Jerry
 
 ## Version Strategy
 - due to *urgent* [**every request is urgent, but some request is more urgent than others**] need to English version, i suggest to maintain Engish version in an separate svn repository, as well as tracing bugs and RFEs individually. 
