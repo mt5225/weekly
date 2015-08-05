@@ -17,7 +17,7 @@
 
 ## DCV English key days
 discussed in conference room with Donny, Yangchao, Aohan, mark some key days as following：<br>
-[End of Auguest]
+[End of August]
 
 ## Version Strategy
 
