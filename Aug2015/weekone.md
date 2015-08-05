@@ -8,6 +8,7 @@
   5. translate key words (about 100 words) from model json, according to 大师兄
   6. injured in field soccer.
   7. submit expense about corp PC.
+  8. visit mingshen datacenter in shunyi with yangchao, aohan and kongfeng.
 - **Wednesday**
   1. take sick leave
   2. phone chat with 田野 with dcv english version strategy. [see details blow]
@@ -15,6 +16,6 @@
 
 
 ## DCV English key days
-
+discussed in conference room with Donny, Yangchao, Aohan
 
 ## Version Strategy
