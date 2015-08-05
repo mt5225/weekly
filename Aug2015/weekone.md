@@ -11,13 +11,13 @@
   8. visit mingshen datacenter in shunyi with yangchao, aohan and kongfeng.
 - **Wednesday**
   1. take sick leave
-  2. phone chat with 田野 with dcv english version strategy. [see details blow]
+  2. phone chat with 田野 with dcv english version strategy. [see details beblow]
  
 
 
-## DCV English key days
+## DCV English key dates
 discussed in conference room with Donny, Yangchao, Aohan, mark some key days as following：<br>
-[End of August]
+- [End of August]
 
 ## Version Strategy
 - due to *urgent* [**every request is urgent, but some request is more urgent than others**] need to English version, i suggest to maintain Engish version in an separate svn repository, as well as tracing bugs and RFEs individually. 
