@@ -16,6 +16,11 @@
 
 
 ## DCV English key days
-discussed in conference room with Donny, Yangchao, Aohan
+discussed in conference room with Donny, Yangchao, Aohan, mark some key days as following：<br>
+[End of Auguest]
 
 ## Version Strategy
+
+## Misc
+1. befor get access to corp jira, leverage [tower](http://towner.im) as task tracing platform, add Donny and 田野 to participates.
+
