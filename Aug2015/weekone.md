@@ -12,6 +12,7 @@
 - **Wednesday**
   1. take sick leave
   2. phone chat with 田野 with dcv english version strategy. [see details below]
+  3. adjust the model translation: key words are used for indexing, so there are better no space between words. for instance, 'air conditionor' should become 'AC'.
  
 
 ## DCV English key dates
@@ -21,7 +22,7 @@ discussed in conference room with Donny, Yangchao, Aohan, mark some key days as 
 - [End of Aug] dcb website redesign -- Donny/Jerry
 
 ## Version Strategy
-- due to *urgent* [**every request is urgent, but some request is more urgent than others**] need to English version, i suggest to maintain Engish version in an separate svn repository, as well as tracing bugs and RFEs individually. 
+- due to *urgent* [**every request is urgent, but some request is more urgent than others**] need of English version, i suggest to maintain Engish version in an separate svn repository, as well as tracing bugs and RFEs individually. 
 - create tasks according to above thoughts in tower and assigned to 田野.
 
 ## Misc
