@@ -7,6 +7,7 @@
   4. setup eclipse 10 and import dcv en project, running okey via eclipse plugin [thanks for 田野's help]
   5. translate key words (about 100 words) from model json, according to 大师兄
   6. injured in field soccer.
+  7. submit expense about corp PC.
 - **Wednesday**
   1. take sick leave
   2. phone chat with 田野 with dcv english version strategy. [see details blow]
