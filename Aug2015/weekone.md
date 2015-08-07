@@ -13,7 +13,13 @@
   1. take sick leave
   2. phone chat with 田野 with dcv english version strategy. [see details below]
   3. adjust the model translation: key words are used for indexing, so there are better no space between words. for instance, 'air conditionor' should become 'AC'.
- 
+
+- **Thursday**
+  1. do an extended search on css templates for new english website, get an copy of [this](http://demo.cssmoban.com/cssthemes3/mbts_24_Cubic/index.html), looks promising.
+  2. start to reading source code of ITA, some initial notes is [here](http://mt5225.gitbooks.io/ita-sourcecode-reading/content/index.html)
+  3. Advised from my doctor i should lay down still on bed, *reduce workload*.
+- **Friday**
+  1. conf call with Donny, go through the data import steps in DCV. 
 
 ## DCV English key dates
 discussed in conference room with Donny, Yangchao, Aohan, mark some key days as following：<br>
