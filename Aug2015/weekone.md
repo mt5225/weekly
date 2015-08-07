@@ -11,7 +11,7 @@
   8. visit mingshen datacenter in shunyi with yangchao, aohan and kongfeng.
 - **Wednesday**
   1. take sick leave
-  2. phone chat with 田野 with dcv english version strategy. [see details below]
+  2. phone chat with 田野 with dcv english version strategy. [see details below] [*note1* tasks is created in tower.im and finished by 田野 in Thursday]
   3. adjust the model translation: key words are used for indexing, so there are better no space between words. for instance, 'air conditionor' should become 'AC'.
 
 - **Thursday**
