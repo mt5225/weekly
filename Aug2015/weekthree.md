@@ -8,5 +8,5 @@
  - about standalone uDCB, *lijian* will finish the license process and create an release within next week.
  
 3. e2e process testing, until Thursday, the export scene from uDCB still need minor modification to work with uDCV. uDCB team is outing at Friday, so i make sure it be done early next week.
-4. Regarding English website, i am working on so call the *dynamic* part: user management and scenes management.
- - 
+4. Regarding English website, i am working on so call the *dynamic* part: user and scenes management [USM].
+ - existting uinnova.com userfunctions: *deprecated*, 
