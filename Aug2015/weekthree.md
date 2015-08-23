@@ -9,4 +9,11 @@
  
 3. e2e process testing, until Thursday, the export scene from uDCB still need minor modification to work with uDCV. uDCB team is outing at Friday, so i make sure it be done early next week.
 4. Regarding English website, i am working on so call the *dynamic* part: user and scenes management [USM].
- - existting uinnova.com userfunctions: *deprecated*, 
+ - existting uinnova.com USM functions: *deprecated*, reason: not compatible with new version of uDCB, not suitable for new English web site, and maintenance personnel is reluctant to make modification and improvements.
+ - leverage **NodeBB** as base of USM. i have wrote the plugin widget to show uDCB link for registered users. [nodebb-plugin-mt5225_001](https://www.npmjs.com/package/nodebb-plugin-mt5225_001), for installation, type <br>
+ ``` npm install nodebb-plugin-mt5225_001 ```<br>
+ under nodebb install directory.
+
+ - store screen capture image to AWS S3,  [details](https://github.com/mt5225/uDCB-srv)
+ - will finish (basical) USM function early next week.
+ 
