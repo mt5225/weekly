@@ -16,7 +16,7 @@ this week i am working on dynamic part of english website, put all thing togethe
 
 *[Misc.]* 
 - Daily backup of backend data
-<br>
+<br><br>
 
 *[TODO]* 
 - delete entry in my Gallery
