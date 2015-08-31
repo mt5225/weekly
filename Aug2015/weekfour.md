@@ -14,6 +14,9 @@ this week i am working on dynamic part of english website, put all thing togethe
 7. **Import** into uDCV, import asset/wired data with cabinet
 8. **Social** functions including leave comments and suggestions, share creation, browse and download documentations, tutorial and trail versions
 
+*[Misc.]* 
+- Daily backup of backend data
+
 
 *[TODO]* 
 - delete entry in my Gallery
