@@ -12,6 +12,7 @@ this week i am working on dynamic part of english website, put all thing togethe
 5. **Edit** saved entry
 6. *Export* to local disk
 7. **Import** into uDCV, import asset/wired data with cabinet
+8. **Social** functions including leave comments and suggestions, share creation, browse and download documentations, tutorial and trail versions
 
 
 *[TODO]* 
