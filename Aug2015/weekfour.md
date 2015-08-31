@@ -18,7 +18,7 @@ this week i am working on dynamic part of english website, put all thing togethe
 - Daily backup of backend data
 <br><br>
 
-*[TODO]* 
+*[Planning Next Week]* 
 - delete entry in my Gallery
 - still some traslation in uDCB and uDCV need to adjust
 - follow up uDCB standalone version
