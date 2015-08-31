@@ -18,4 +18,5 @@ this week i am working on dynamic part of english website, put all thing togethe
 - delete entry in my Gallery
 - still some traslation in uDCB and uDCV need to adjust
 - follow up uDCB standalone version
-- 
+- bug fix on heatmap function in uDCV 
+- wording, images and links in website
