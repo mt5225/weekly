@@ -6,5 +6,5 @@
    * [Week Two](Aug2015/weektwo.md)
    * [Week Three](Aug2015/weekthree.md)
    * [Week Four](Aug2015/weekfour.md)
-* [Sept 2015](Sept2015/)
-
+* [Sept 2015](Sept2015/README.md)
+   * [Week One](Sept2015/weekone.md)
