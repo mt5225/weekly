@@ -11,4 +11,4 @@
 
 
 ## Side Project : [taverna](http://www.taverna.org.uk/ )
-- I notice the workflow engine as it become incubator Apache project, lightweight and have an academic, taverna could be candidate of an generic automation engine.
+- I notice the workflow engine as it become incubator Apache project, lightweight and have an academic background, taverna could be candidate of an generic automation engine.
