@@ -9,6 +9,6 @@
 * [Sept 2015](Sept2015/README.md)
    * [Week One](Sept2015/weekonemd.md)
    * [Week Two](Sept2015/weektwomd.md)
-   * [Week Three](Sept2015/weekthree.md)
+   * [Week Three](Sept2015/weekthreemd.md)
    * [Week Four](Sept2015/weekfour.md)
 
