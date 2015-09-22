@@ -23,4 +23,5 @@ from 7 locations, 100% avail
 
 4. website uDCB user
  -  about 17 users have register, about 9 users are from non uinnova employee.
+ -  <b>one license request from hp Brazil</b>
  -  
