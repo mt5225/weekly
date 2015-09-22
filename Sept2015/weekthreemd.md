@@ -21,6 +21,8 @@ from 7 locations, 100% avail
 ![rewrelic](Screen Shot 2015-09-22 at 10.01.33 AM.png)
 [note] **DNS lookup time is too long**, i will talk to 井岗, discuss DNS issue.
 
+ - register email alerts 
+
 4. website uDCB user
  -  about 17 users have register, about 9 users are from non uinnova employee, which create 
  -  <b>one license request from hp Brazil</b>
