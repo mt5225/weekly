@@ -11,7 +11,7 @@
  - top processes
 ![newrelic](Screen Shot 2015-09-22 at 9.55.31 AM.png)
 
-[note] the memory usage is about <red>50%</red> due to low configuration of aws instance (1C1G), will upgrade if usage is up about 70%
+[note] the memory usage is about <b>50%</b> due to low configuration of aws instance (1C1G), will upgrade if usage is up about 70%
 
  - url matrix/synthetics monitoring
 from 7 locations, 100% avail
