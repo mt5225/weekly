@@ -22,6 +22,7 @@ from 7 locations, 100% avail
 [note] **DNS lookup time is too long**, i will talk to 井岗, discuss DNS issue.
 
 4. website uDCB user
- -  about 17 users have register, about 9 users are from non uinnova employee.
+ -  about 17 users have register, about 9 users are from non uinnova employee, which create 
  -  <b>one license request from hp Brazil</b>
- -  
+ ![user](Screen Shot 2015-09-22 at 10.14.07 AM.png) 
+
