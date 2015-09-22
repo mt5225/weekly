@@ -19,4 +19,4 @@ from 7 locations, 100% avail
 
  - request breakdown
 ![rewrelic](Screen Shot 2015-09-22 at 10.01.33 AM.png)
-[note] DNS
+[note] **DNS lookup time is too long**, i will talk to 井岗, discuss DNS issue.
