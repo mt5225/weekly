@@ -26,11 +26,12 @@ from 7 locations, 100% avail
  -  <b>one license request from hp Brazil</b>
  ![user](Screen Shot 2015-09-22 at 10.14.07 AM.png) 
 
-5. video tutorial
+#video tutorial
  - Donny have lend me an screen recording tool, so i make a serial of video tutorials based on uDCB/uDCV english release and post to uinnova website
  
   http://www.uinnova.com:4567/topic/32/video-tutorials
 
-
- 
+#uDCB/uDCV version update, EMC project update
+ - Perform sanity check
+ - Project discuss and follow up
 
