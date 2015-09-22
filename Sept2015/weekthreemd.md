@@ -18,3 +18,5 @@ from 7 locations, 100% avail
 ![rewrelic](Screen Shot 2015-09-22 at 9.58.20 AM.png)
 
  - request breakdown
+![rewrelic](Screen Shot 2015-09-22 at 10.01.33 AM.png)
+[note] DNS
