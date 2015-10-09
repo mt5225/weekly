@@ -11,4 +11,5 @@
    * [Week Two](Sept2015/weektwomd.md)
    * [Week Three](Sept2015/weekthreemd.md)
    * [Week Four](Sept2015/weekfourmd.md)
-
+* [Oct 2015](Oct2015/README.md)
+   * [Week One](Oct2015/weekonemd.md)
